@@ -2,6 +2,8 @@
 
 A dead simple CLI tool that watches stock or crypto ticker, alerting you when it goes above or below a certain threshold.
 
+![img.png](img.png)
+
 # Features
 * Live price polling from Yahoo Finance
 * Desktop notifications for when thresholds are crossed
