@@ -1,0 +1,6 @@
+{
+    "ticker": "BTC-USD",
+    "interval": 2,
+    "alert_above": 74408.00,
+    "alert_below": 74211.77
+}
