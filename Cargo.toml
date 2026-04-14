@@ -1,0 +1,11 @@
+[package]
+name = "canary"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1.51.1", features = ["rt", "rt-multi-thread", "macros"] }
+serde = { version = "1", features = ["derive"] }
+reqwest = { version = "0.13.2", features = ["json"] }
+serde_json = "1.0.149"
+notify-rust = "4.14.0"
